@@ -1,4 +1,4 @@
-# Your Name
+# Mason Lo
 Data Science Student  
 UNC Charlotte
 ## About Me
