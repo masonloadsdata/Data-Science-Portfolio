@@ -46,6 +46,6 @@ I'd examine each individual Dragon-type, investigate which specific Dragon-type 
 
 # 7. Code and Transparency
 
-Jupyter Notebook: [Code]()
+Jupyter Notebook: [Code](https://github.com/masonloadsdata/Data-Science-Portfolio/blob/7be3ca2c14acea4dcf021ae0003e9f0a6629605f/Projects/VGC%20Dragon%20Analysis/Project%201%20Pokemon.ipynb)
 
 
