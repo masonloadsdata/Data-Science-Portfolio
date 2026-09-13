@@ -10,6 +10,9 @@ Welcome to my Data Science Studio portfolio.
 This website will document my learning and projects throughout the semester.
 My name is Mason and I currently a junior attending University of Charlotte in North Carolina(UNCC). I am still learning core technical skills to navigate data but I am eager to grow and show off my hard work and accomplishments. 
 
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/mason-lo-87b91637b/)
+
 ## Portfolio
 - [Blog](blog1.md)
 - [Projects](projects.md)
