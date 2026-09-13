@@ -10,3 +10,5 @@ My name is Mason and I currently a junior attending University of Charlotte in N
 ## Portfolio
 - [Blog](https://github.com/masonloadsdata/Data-Science-Portfolio/blob/21cbe621f6457554f678b7a2ed1abf0522178bb9/blog/blog1.md)
 - [Projects](https://github.com/masonloadsdata/Data-Science-Portfolio/blob/c3ec2c16012a67d065e6957c37cf42372eb3b80e/Projects/projects.md)
+- [Resume(in progress)](https://github.com/masonloadsdata/Data-Science-Portfolio/blob/a7f6fcb2fb3ebd25317d3fd100d625ab8ab7cd2e/Resume-In%20Progress.pdf)
+- [LinkedIn](https://www.linkedin.com/in/mason-lo-87b91637b/)
