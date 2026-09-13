@@ -31,6 +31,6 @@ Now I Can start cleaning the match data. Matches that had only one player were d
 # 4. Visualizations
 Data Visual 1: [Dragon Win Rates](https://github.com/masonloadsdata/Data-Science-Portfolio/blob/7d8173a0d409a3ca3a5cf2b378eb9ab45bdb7622/Projects/VGC%20Dragon%20Analysis/output0.png)
 
-Data Visual 2:[Dragon Type Win Rates in Tournaments](https://github.com/masonloadsdata/Data-Science-Portfolio/blob/3ebbc9667e595ebc55082b68dfbf76d287b1a65b/VGC%20Dragon%20Analysis/dragon_type_win_rates_tournaments.png)
+Data Visual 2: [Dragon Type Win Rates in Tournaments](https://github.com/masonloadsdata/Data-Science-Portfolio/blob/f6a89751f4012e6ec07f9f67b451f57313179d9f/Projects/VGC%20Dragon%20Analysis/output1.png)
 
 # 5. 
