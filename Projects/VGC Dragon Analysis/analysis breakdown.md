@@ -1,6 +1,6 @@
 # Do Dragon-Types Really Win Games?
 
-#1. The Question:
+# 1. The Question:
 Does having at least one Dragon-type on your VGC team correlate with higher win rates?
 Or simply put, do having Dragon-types on your team win games?
 
