@@ -16,4 +16,4 @@ My name is Mason and I currently a junior attending University of Charlotte in N
 
 ## Portfolio
 - [Blog](blog1.md)
-- [Projects](projects.md)
+- [Projects](Projects.md)
