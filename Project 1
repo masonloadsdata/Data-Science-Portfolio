@@ -1,7 +1,34 @@
 #Do Dragon-Types Really Win Games?
 
-#The Question:
+#1. The Question:
 Does having at least one Dragon-type on your VGC team correlate with higher win rates?
 Or simply put, do having Dragon-types on your team win games?
 
 This project aims to shed light on an obvious question with a not so obivious answer. Dragon-type pokemon have served an important role in competitive Pokemon VGC. They fill offensive, defensive, and support roles that are crucial in battle. But does simply having one increase your chances of winning?
+
+We are more focused on the general scope of the concept, rather than considering every battle and every move that were or could have been made. This is so that everyone can learn from the results without having to feel overwhelmed by the data. Personally, I find it much easier to just find out a yes or no answer but this just views the outcomes of these teams and not the causes themselves.
+
+#Sources
+For this project, I used two APIs. The first is Limitless Tournament Platform API, it provides information from previous competitive VGC Pokemon tournaments. It shows us the players, the teams, the matches, and placements which will be important to us later. The second is PokeAPI, which was used to retrieve pokemon that were classified as Dragon-types. Using PokeAPI like this helped us to avoid any name mismatches and unnecessary errors.
+
+#2. Units 
+Variables: 
+has_dragon = 0 no Dragon-types are present; 1 = at least one Dragon-type is present.
+dragon_count = int how many Dragon-types are present on the team.
+won = int player won the match or lost the match.
+winner = playerx who won out of a match.
+tournament = name of the tournament in which the match happened.
+year = year of the tournament happening.
+
+Note: Only natural Dragon-types are considered. This excludes any Tera transformations or Mega Evolutions(unless they were Dragon-type before). The players do have unique IDs so that their records are recorded. The tournaments also registered at least 16 players with six-Pokemon teams.
+
+#3. Data Cleaning and Preparation
+Cleaning the data was simple, due to the help of AI. While I was creating this project, I was learning the ins and outs of data analysis on Jupyter so AI was very helpful. It showed me steps on how to process data and the concepts that appeared as well.
+
+The first thing I did was remove the players that did not have a public team, as I need the team information to conduct this analysis. Then the pokemon on the teams were converted to lowercase so that each indivdual pokemon can one unique name. Using the PokeAPI, I was able to get a list of all the Dragon-type Pokemon and compare it against the players' teams. This is where I introduced the "has_dragon" and "dragon_count" variables to track the presence of Dragon-types. 
+Now I Can start cleaning the match data. Matches that had only one player were dropped, because were are only focused on wins that were battled (has two people). I also removed ties and double losses because that were are only focused on wins and losses. Lastly, matches that had both teams containing Dragon-types and matches that contained no Dragon-types were removed from consideration; as they do not compare well in the comparison.
+
+#4. Visualizations
+...
+
+#5. 
