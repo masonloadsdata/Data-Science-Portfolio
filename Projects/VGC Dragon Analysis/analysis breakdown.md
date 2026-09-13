@@ -48,4 +48,9 @@ I'd examine each individual Dragon-type, investigate which specific Dragon-type 
 
 Jupyter Notebook: [Code](https://github.com/masonloadsdata/Data-Science-Portfolio/blob/7be3ca2c14acea4dcf021ae0003e9f0a6629605f/Projects/VGC%20Dragon%20Analysis/Project%201%20Pokemon.ipynb)
 
+AI Usage Disclosure:
+ChatGPT by OpenAI using GPT-5.6 Sol was used as a support tool during this project. The AI was used generally for understanding concepts and troubleshooting errors. More specifically, ChatGPT helped with API errors, data cleaning, and navigating GitHub. I, Mason Lo, reviewed the code and created the conclusions. 
 
+References:
+Limitless Tournament Platform. 
+PokéAPI. 
