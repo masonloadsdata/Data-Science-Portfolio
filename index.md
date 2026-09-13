@@ -9,4 +9,4 @@ My name is Mason and I currently a junior attending University of Charlotte in N
 
 ## Portfolio
 - [Blog](blog1.md)
-- [Projects](projects.md)
+- [Projects](https://github.com/masonloadsdata/Data-Science-Portfolio/tree/a32289f6d7435ed88ab967c37c48810707d30524/Projects)
