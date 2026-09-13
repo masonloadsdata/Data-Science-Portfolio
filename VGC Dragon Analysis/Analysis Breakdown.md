@@ -29,6 +29,7 @@ The first thing I did was remove the players that did not have a public team, as
 Now I Can start cleaning the match data. Matches that had only one player were dropped, because were are only focused on wins that were battled (has two people). I also removed ties and double losses because that were are only focused on wins and losses. Lastly, matches that had both teams containing Dragon-types and matches that contained no Dragon-types were removed from consideration; as they do not compare well in the comparison.
 
 #4. Visualizations
-Data Visual 1: [image alt](https://github.com/masonloadsdata/Data-Science-Portfolio/blob/3ebbc9667e595ebc55082b68dfbf76d287b1a65b/VGC%20Dragon%20Analysis/dragon-win-rate.png)
+Data Visual 1: [Dragon Win Rates](https://github.com/masonloadsdata/Data-Science-Portfolio/blob/3ebbc9667e595ebc55082b68dfbf76d287b1a65b/VGC%20Dragon%20Analysis/dragon-win-rate.png)
+Data Visual 2:[Dragon Type Win Rates in Tournaments](https://github.com/masonloadsdata/Data-Science-Portfolio/blob/3ebbc9667e595ebc55082b68dfbf76d287b1a65b/VGC%20Dragon%20Analysis/dragon_type_win_rates_tournaments.png)
 
 #5. 
